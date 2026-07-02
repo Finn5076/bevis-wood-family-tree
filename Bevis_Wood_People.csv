@@ -1,0 +1,69 @@
+ID,Gen,First Name(s),Surname at Birth,Gender,Birth Date,Birth Place,Death Date,Death Place,Baptism Date,Baptism Place,Marriage Date,Marriage Place,Spouse ID(s),Father ID,Mother ID,Occupation,Notes
+P001,1,Jeremiah,Beevis,M,,"Little Laver, Essex",,,,,10.12.1798,"Little Laver, Essex",P002,,,,
+P002,1,Elizabeth,Stones,F,,"Little Laver, Essex",,,,,10.12.1798,"Little Laver, Essex",P001,,,,
+P003,2,Elizabeth,Beevis,F,18.2.1798,Little Laver,,,18.2.1798,Little Laver,,,,P001,P002,,
+P004,2,William,Beevis,M,15.12.1799,Little Laver,,,15.12.1799,Little Laver,,,,P001,P002,,
+P005,2,Edward,Beevis,M,10.1.1802,Little Laver,,,10.1.1802,Little Laver,,,,P001,P002,,
+P006,2,Joseph,Beevis,M,9.6.1805,Little Laver,10.4.1842,"Burnewang, Vic",9.6.1805,Little Laver,,,P008,P001,P002,,
+P007,2,Lydia,Beevis,F,12.6.1808,Little Laver,,,12.6.1808,Little Laver,,,,P001,P002,,
+P008,2,Mary Anne,Lodge,F,1817,,3.4.1842,"Melbourne, Vic",,,1.11.1833,"Little Laver, Essex",P006,,,Servant,Died at Melbourne 3.4.1842 aged 25. Wife of Joseph Beevis.
+P009,3,Joseph,Bevis,M,1805,"Little Laver, Essex",1870,,,,1.11.1833,"Little Laver, Essex",P008,P006,P008,Labourer,"Migrated to Port Phillip on Samuel Boddington from Cork 21.9.1841, arr. 13.1.1842"
+P010,3,Christopher Howard,Bevis,M,,,,,,,,,P011,,,Poulterer,
+P011,3,Ellen,Byrnes,F,,,,,,,,,P010,,,,
+P012,1,Joshua,Wood,M,c.1793,"Yorkshire, England",5.8.1857,,25.8.1783,,12.7.1828,Peters Leeds,P013,,,Soldier/Tradesman/Clothmaker,Native of Yorkshire. Arrived Hobart Town 10.8.1832 on brig Wellington from Liverpool. Died a widower 5.8.1857.
+P013,1,Harriet,Fawcett,F,6.2.1805,,25.8.1865,,,,12.7.1828,Peters Leeds,P012,,,,"Native of Yorkshire, England."
+P014,1,Michael,Feeney,M,,,,,,,,,P015,,,Farmer,
+P015,1,Mary,McDonough,F,,,,,,,,,P014,,,,
+P016,3,William Henry,Bevis,M,14.12.1834,"High Laver, Essex",11.12.1900,"Ardmona, Victoria",,,,,P017,P009,P008,Sawyer,
+P017,3,Mary Catherine,Howard,F,1842,,1900,,,,,,P016,,,,
+P018,3,Jeremiah,Bevis,M,5.11.1838,"High Laver, Essex",,"Barnawartha, Victoria",,,,,P019,P009,P008,,
+P019,3,Elizabeth,Topp,F,13.4.1865,,,,,,,,P018,,,,
+P020,3,Susan,Bevis,F,c.1841,"High Laver, Essex",3.4.1842,Melbourne,,,,,,P009,P008,,"Youngest child. Died aged 14 months at Melbourne, just weeks after arrival in Australia."
+P021,3,James,Bevis,M,3.3.1841,"High Laver, Essex",,,,,16.12.1837,"High Laver, Essex",P022,P009,P008,,
+P022,3,Mary Catherine,Bevis,F,2.5.1841,"High Laver, Essex",,"Katamatite, Victoria",,,16.12.1837,"High Laver, Essex",P021,,,,"Married James Bevis — same surname, different family. Died Katamatite."
+P023,4,Christopher Henry,Bevis,M,8.11.1840,"Kilmore, Victoria",26.4.1940,"Wellington, NSW",,,26.1.1887,"Yarrawonga, Victoria",P024,P016,P017,Coach Driver / Farmer / Butcher,
+P024,4,Mary Harriet,Wood,F,c.1870,,,,,,26.1.1887,"Yarrawonga, Victoria",P023,P039,P040,Housemaid,
+P025,4,Joseph William,Bevis,M,10.3.1863,"Kilmore, Victoria",9.8.1936,"Williamstown, Vic",,,,"Numurkah, Victoria",P026,P016,P017,,
+P026,4,Johanna,Sherwood,F,9.2.1893,,,,,,,"Numurkah, Victoria",P025,,,,
+P027,4,Peter James,Bevis,M,6.1.1867,"Kilmore, Vic",22.5.1942,"Daylesford, Vic",,,,,P028;P029,P016,P017,,"Married twice: 1st Mary Wade (1896), 2nd Mary Ann Mulqueeny (m. 17.1.1891, Carlton, Vic)."
+P028,4,Mary (Roseann),Wade,F,1896,,,,,,,,P027,,,,First wife of Peter James Bevis.
+P029,4,Mary Ann,Mulqueeny,F,,,,,,,17.1.1891,"Carlton, Vic",P027,,,,Second wife of Peter James Bevis.
+P030,4,Mary,Bevis,F,15.1.1872,"Kilmore, Vic",,,,,,,,P016,P017,,
+P031,4,William,Bevis,M,c.1860,,,,,,,,,P016,P017,,
+P032,4,George,Bevis,M,c.1863,,,,,,,,,P016,P017,,
+P033,4,John,Bevis,M,c.1864,,,,,,,,,P016,P017,,
+P034,4,Joshua,Bevis,M,10.6.1866,"Bellangary, Victoria",25.8.1937,"Yarrawonga, NSW",,,,,,P016,P017,,
+P035,4,Thomas,Bevis,M,10.7.1870,"Yarrawonga, Vic",c.1937,"Sydney, NSW",,,,,,P016,P017,,
+P036,4,Mary Harriet,Bevis,F,10.7.1870,"Yarrawonga, Vic",20.7.1947,"Milsons Point, NSW",,,,,,P016,P017,,
+P037,4,Sarah Jane,Bevis,F,28.8.1872,"Yarrawonga, Vic",22.10.1941,"RPA Hospital, Sydney",,,,,,P016,P017,,m. Robert Irwin McCudden
+P038,4,Margaret Maude,Bevis,F,9.1.1875,"Yarrawonga, Vic",6.6.1950,"Dubbo, NSW",,,4.4.1900,"Dubbo, NSW",,P016,P017,,"m. Samuel McCudden, 4.4.1900, Dubbo, NSW"
+P039,3,George,Wood,M,9.6.1834,Hobart Town,c.1888,,,,23.11.1859,"Peechella Station, N.Vic",P040,P012,P013,Fencer/Stockman,
+P040,3,Mary,Feeney,F,1.2.1837,O'Briens Bridge,16.5.1865,,,,23.11.1859,"Peechella Station, N.Vic",P039,P014,P015,,
+P041,4,Sarah,Wood,F,1.2.1837,,21.1.1888,"Yarrawonga, Vic",,,23.11.1865,,P042,P039,P040,,
+P042,4,John,Lemar,M,,,,,,,,,P041,,,,
+P043,4,Mary,Wood,F,c.1839,"Ballinasloe, Ireland (Co. Galway)",3.6.1916,"Alectown, NSW",,,23.11.1853,,P044,P039,P040,,
+P044,4,George,Wood,M,,,,,,,23.11.1853,,P043,,,,
+P045,5,Arthur Henry,Bevis,M,24.12.1887,"Seymour, Victoria",26.5.1964,"Kirribilli, NSW",,,24.9.1919,"Taree, NSW",P046,P023,P024,,"Sapper 291, 1st Engineers Corps, AIF — WWI service"
+P046,5,Mary Elizabeth,Slyney,F,,,,,,,24.9.1919,"Taree, NSW",P045,,,,
+P047,5,Margaret Georgina,Bevis,F,16.10.1889,"Nagambie, Victoria",28.8.1967,,,,29.9.1914,,P048,P023,P024,,
+P048,5,Reuben Leslie,Turner,M,,,,,,,29.9.1914,,P047,,,,
+P049,5,Mary Ellen (Nell),Bevis,F,31.10.1890,"Graytown, Victoria",24.11.1954,"Yetholme, NSW",,,7.6.1911,"Alectown, NSW",P050,P023,P024,,
+P050,5,Edward,Emblen,M,,,,,,,7.6.1911,"Alectown, NSW",P049,,,,
+P051,5,Eileen Maude,Bevis,F,21.6.1893,"Dubbo, NSW",24.7.1985,"Wollongong, NSW",,,22.7.1914,"Dubbo, NSW",P052,P023,P024,,
+P052,5,Henry Herbert,Turner,M,,,,,,,22.7.1914,"Dubbo, NSW",P051,,,,
+P053,5,Grace Virtue,Bevis,F,22.1.1896,"Dubbo, NSW",24.11.1946,RPA Hospital Camperdown,,,7.6.1920,,P054,P023,P024,,
+P054,5,Harold Herbert (George),Smith,M,,,,,,,7.6.1920,,P053,,,,
+P055,5,Cecilia Kathleen (May),Bevis,F,11.9.1898,"Harvey Ranges, NSW",24.7.1978,,,,23.3.1927,"Peak Hill, NSW",P056,P023,P024,,
+P056,5,Peter,Malcolm,M,,,,,,,23.3.1927,"Peak Hill, NSW",P055,,,,
+P057,5,Leila Alice (Lily),Bevis,F,21.5.1901,"Alectown, NSW",19.8.1965,"Goulburn, NSW",,,2.10.1921,Peak Hill,P058,P023,P024,,
+P058,5,James,Armstrong,M,,,,,,,2.10.1921,Peak Hill,P057,,,,
+P059,5,Harriet Jane,Bevis,F,29.7.1903,"Alectown, NSW",27.10.1987,"Parkes, NSW",,,24.3.1927,Peak Hill,P060,P023,P024,,
+P060,5,William,Norris,M,,,,,,,24.3.1927,Peak Hill,P059,,,,
+P061,5,Christopher John,Bevis,M,14.12.1905,"Alectown, NSW",6.1906,"Alectown, NSW",,,,,,P023,P024,,Died in infancy.
+P062,5,William Joseph,Bevis,M,13.9.1907,"Alectown, NSW",1.11.1907,"Alectown, NSW",,,,,,P023,P024,,Died in infancy.
+P063,5,Rita Florence,Bevis,F,20.10.1909,"Alectown, NSW",4.8.1988,Coffs Harbour,,,6.1931,"Wellington, NSW",P064,P023,P024,,
+P064,5,Charles,Jones,M,,,,,,,6.1931,"Wellington, NSW",P063,,,,
+P065,5,Edward George,Bevis,M,13.6.1912,"Alectown, NSW",5.9.1996,"Wentworth Falls, NSW",,,19.8.1944,North Sydney,P066,P023,P024,,
+P066,5,Irene Grace,Crofts,F,,,,,,,19.8.1944,North Sydney,P065,,,,
+P067,5,Patrick John,Bevis,M,c.1920,,,,,,23.1.1946,,P068,P045,P046,,"RAAF service number 422532, Flight Lieutenant — WWII service. BCATP training Brandon, Manitoba c.1942-43."
+P068,5,Gladys,,F,,,,,,,23.1.1946,,P067,,,,Married Patrick John Bevis 23 January 1946.
